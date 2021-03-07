@@ -183,11 +183,11 @@ input,select{vertical-align:middle}
 #window0 {	top: 20px;	left: 240px;}
 #window1 {	top: 400px; left: 120px;}
 #window2 {	top: 250px; left: 300px;}
-#window3 {	top: 125px; left: 420px;}
+#window3 {	top: 40px; left: 600px;}
 #window0 .wincontent {	width: 300px; height: 350px;	}
 #window1 .wincontent {	width: 500px; height: 300px;	}
-#window2 .wincontent {	width: 400px; height: 350px;	}
-#window3 .wincontent {	width: 400px; height: 350px;	}
+#window2 .wincontent {	width: 4000px; height: 350px;	}
+#window3 .wincontent {	width: 600px; height: 600px;	}
 @media screen and (max-width:960px){
 	#window0 {	left: 10px;	}
 	#window3 {	left: 50px;	}	
@@ -203,7 +203,7 @@ input,select{vertical-align:middle}
     width: 275px;
     height: auto;
 }
-#window3 {    top: 9px;    left: 10px;	}
+#window3 {    top: 10px;    left: 90px;	}
 #window2 {    left: -118px;	}
 #window1 .wincontent {    width: auto;    height: 300px;	}
 }
